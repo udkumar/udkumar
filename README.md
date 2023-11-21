@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Uday
 #### Developer - Trainer
 
-Skills: Python / Flask / Ruby on Rails / PostgreSQL / MySQL / MongoDB / Cloud ( AWS / GCP )/ REACT / JavaScript / Docker / Jenkins / Git / Design patterns / Jira ....
+Skills: Python / Flask / Node / PostgreSQL / MySQL / MongoDB / Cloud ( AWS / GCP )/ REACT / JavaScript / Docker / Jenkins / Git / Design patterns / Jira ....
 
-- 🔭 I’m currently working in Health Domain
-- 🌱 I’m currently learning Building Microservices in Python
 - 💬 Ask me about Anything related to Python and Full Stack development 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/umishra47/)
 
